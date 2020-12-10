@@ -103,9 +103,9 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
   <label class="col-md-12 control-label" for="gender"></label>
   <div class="col-md-12">
     <select id="gender" name="gender" placeholder="Informe seu gênero" class="form-control input-md" >
-   <option value="Male">Select Gender</option>
-  <option value="M">Male</option>
-  <option value="F">Female</option> </select>
+   <option value="Male">Selecione o sexo</option>
+  <option value="M">Masculino</option>
+  <option value="F">feminino</option> </select>
   </div>
 </div>
 
@@ -198,10 +198,10 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Alex Ribeiro Build Tec</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+310997602229</h4>
+		<h4 style="font-family:'typo' ">alexribeirobuildtec@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Build tec</h4></div></div>
 		</p>
       </div>
     

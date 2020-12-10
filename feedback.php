@@ -95,21 +95,21 @@ echo '<a href="logout.php?q=feedback.php" class="pull-right sub1 btn title3"><sp
 <?php if(@$_GET['q'])echo '<span style="font-size:18px;"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;'.@$_GET['q'].'</span>';
 else
 {echo' 
-You can send us your feedback through e-mail on the following e-mail id:<br />
+  Você pode nos enviar seu feedback por e-mail no seguinte endereço de e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:chiraggoel.53784@gmail.com" style="color:#000000">sunnygkp10@gmail.com</a><br /><br />
+<a href="mailto:chiraggoel.53784@gmail.com" style="color:#000000">alexribeirobuildtec@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
-<p>Or you can directly submit your feedback by filling the enteries below:-</p>
+<p>Ou você pode enviar diretamente seu feedback preenchendo os campos abaixo:-</p>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
 <div class="row">
 <div class="col-md-3"><b>Name:</b><br /><br /><br /><b>Subject:</b></div>
 <div class="col-md-9">
 <!-- Text input-->
 <div class="form-group">
-  <input id="name" name="name" placeholder="Enter your name" class="form-control input-md" type="text"><br />    
-   <input id="name" name="subject" placeholder="Enter subject" class="form-control input-md" type="text">    
+  <input id="name" name="name" placeholder="Digite seu nome" class="form-control input-md" type="text"><br />    
+   <input id="name" name="subject" placeholder="Digite o assunto" class="form-control input-md" type="text">    
 
 </div>
 </div>
@@ -120,13 +120,13 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="col-md-9">
 <!-- Text input-->
 <div class="form-group">
-  <input id="email" name="email" placeholder="Enter your email-id" class="form-control input-md" type="email">    
+  <input id="email" name="email" placeholder="Digite seu e-mail-id" class="form-control input-md" type="email">    
  </div>
 </div>
 </div><!--End of row-->
 
 <div class="form-group"> 
-<textarea rows="5" cols="8" name="feedback" class="form-control" placeholder="Write feedback here..."></textarea>
+<textarea rows="5" cols="8" name="feedback" class="form-control" placeholder="Escreva comentários aqui ..."></textarea>
 </div>
 <div class="form-group" align="center">
 <input type="submit" name="submit" value="Submit" class="btn btn-primary" />
@@ -167,9 +167,9 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
+		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Alex Ribeiro</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+31 997602229</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Build Tec@gmail.com</h4>
 		<h4 style="font-family:'typo' ">Build Tec</h4></div></div>
 		</p>
       </div>
